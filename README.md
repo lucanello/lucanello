@@ -1,7 +1,7 @@
 <a href="https://github.com/lucanello">
         <img src="https://github-profile-trophy.vercel.app/?username=lucanello&column=7&theme=dracula&rank=A,AA,AAA,S,SS,SSS"/>
 </a>
-<br>
+<br><br>
 <a align="center" href="https://github.com/lucanello">
     <img src="https://github-readme-stats.vercel.app/api?username=lucanello&show_icons=true&count_private=true&theme=radical" alt="My GitHub stats"/>
 </a>
